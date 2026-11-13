@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Promosport 3D APK"
+git branch -M main
+git remote add origin https://github.com/YOUR_USERNAME/promosport-3d.git
+git push -u origin main
